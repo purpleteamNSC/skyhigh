@@ -1,4 +1,4 @@
-certifi==2022.6.15
+certifi==2024.7.4
 charset-normalizer==2.0.12
 contextlib2==21.6.0
 idna==3.3
